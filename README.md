@@ -1,1 +1,1 @@
-# 2D-Maze-Game
+# 2D-Maze-Game with device orientation
